@@ -23,22 +23,27 @@ This analysis seeks to address several key business questions:
 **TOOLS USED**
 
 MICROSOFT EXCEL
+
 **DATA CLEANING**
 Formatted the dataset as an Excel Table.
+
 **DATA EXPLORATION**
 The dataset contained the following data categories:
 Customer Demographics( Age group, Income Level).
 Purchase Behaviour( Product Categories, Discount Sensitivity, Shipping Preference).
 Customer Satisfaction & Returns (Product Ratings, Return Rates).
+
 **IDENTIFYING KEY SLICERS**
 The following Slicers were selected:
 Customer Demographics: Age group, income level.
 Purchase Behaviour: purchase category, and shipping preference.
 Customer Satisfaction.
 Time-Based Analysis: Purchase Day, Purchase Hour.
+
 **IMPLEMENTING SLICERS IN EXCEL**
 Added slicers to the selected fields using the insert slicer feature.
 Connected slicers to the pivot tables for filtering.
+
 **INSIGHTS & RECOMMENDATIONS**
 **KEY INSIGHTS:**
 Customer Demographics & Purchase Behaviour:
