@@ -21,6 +21,7 @@ This analysis seeks to address several key business questions:
 7. Do products with low ratings have high return rates?
    
 **TOOLS USED**
+
 MICROSOFT EXCEL
 **DATA CLEANING**
 Formatted the dataset as an Excel Table.
