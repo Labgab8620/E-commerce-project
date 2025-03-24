@@ -1,11 +1,11 @@
 # E-commerce-project
-PROJECT OVERVIEW
+**PROJECT OVERVIEW**
 This project involves analyzing sales data for an e-commerce store. As a data analyst, the goal  was to conduct exploratory data analysis on their past data and uncover new trends  and patterns in their business.
-Project objectives
+**Project objectives**
 
 Analyze trends related to customer demographics, purchase  behavior, pricing, marketing engagement, and return rate.
 Provide insight and recommendations to improve sales experience.
-Key business questions answered
+**Key business questions answered**
 
 This analysis seeks to address several key business questions:
 
