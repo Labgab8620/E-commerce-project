@@ -45,28 +45,35 @@ Added slicers to the selected fields using the insert slicer feature.
 Connected slicers to the pivot tables for filtering.
 
 **INSIGHTS & RECOMMENDATIONS**
+
 **KEY INSIGHTS:**
 Customer Demographics & Purchase Behaviour:
 * Both age groups spend more on products.
 *  The young patronize sport & outdoors.
 *  The old patronizes Electronics.
+  
 CUSTOMER SATISFACTION & RETENTION ANALYSIS:
-* Customers are very satisfied with Brand loyalty
-* Customers return purchases very often
+* Customers are very satisfied with Brand loyalty.
+* Customers return purchases very often.
+  
  PRICING & DISCOUNT EFFECTIVENESS:
 * Discount sensitive spend more when products are discounted.
 * Discounts used affect return rate.
 * High-income levels are interested in discounts.
+  
  PURCHASE BEHAVIOUR AND PREFERENCES:
   * Customers who purchase a particular product are not likely to use a particular shipping preference.
   * The peak shopping hour is 4 pm on Tuesday.
+    
   MARKETING AND AD ENGAGEMENT:
 * Social media influence affects the purchase amount.
 * Social media influence has a high effect on product rating.
+  
 RETURN RATE AND PRODUCT QUALITY:
 * Product with low ratings has a high return rate.
 * Electronics has the highest return rate.
 * Dissatisfied customers are more likely to return the product.
+  
   **RECOMMENDATIONS**
   1. Introduce return policies to reduce high return rates for discounted products.
   2. For high-value categories like electronics, there need to be premium shipping options.
